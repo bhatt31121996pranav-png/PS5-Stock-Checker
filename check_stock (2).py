@@ -44,7 +44,7 @@ PRODUCTS = [
     },
     {
         "name": "PS5 Disc - Amazon",
-        "url": "https://www.amazon.in/Sony-CFI-2008A01X-PlayStation®5-Console-slim/dp/B0CY5HVDS2",
+        "url": "https://www.amazon.in/Sony-CFI-2008A01X-PlayStation5-Console-slim/dp/B0CY5HVDS2",
         "type": "amazon",
     },
     {
