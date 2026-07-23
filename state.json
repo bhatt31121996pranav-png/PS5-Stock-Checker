@@ -1,1 +1,18 @@
-{}
+{
+  "PS5 Disc - Croma": {
+    "status": "IN_STOCK",
+    "url": "https://www.croma.com/sony-playstation-5-slim-1tb-ssd-gaming-console-white-/p/305985"
+  },
+  "PS5 Digital - Croma": {
+    "status": "IN_STOCK",
+    "url": "https://www.croma.com/sony-ps5-slim-digital-edition-console/p/305987"
+  },
+  "PS5 Disc - Vijay Sales": {
+    "status": "OUT_OF_STOCK",
+    "url": "https://www.vijaysales.com/p/227607/sony-playstation-5-slim-disc-edition"
+  },
+  "PS5 Digital - Vijay Sales": {
+    "status": "OUT_OF_STOCK",
+    "url": "https://www.vijaysales.com/p/247617/sony-playstationr5-digital-edition-with-ea-sports-fc-26-bundle-ps5-slim"
+  }
+}
