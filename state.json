@@ -18,5 +18,9 @@
   "PS5 Disc - Amazon": {
     "status": "OUT_OF_STOCK",
     "url": "https://www.amazon.in/Sony-CFI-2008A01X-PlayStation5-Console-slim/dp/B0CY5HVDS2"
+  },
+  "PS5 Digital - Amazon": {
+    "status": "OUT_OF_STOCK",
+    "url": "https://www.amazon.in/Sony-PlayStation%C2%AE5-Digital-Edition-slim/dp/B0CY5QW186"
   }
 }
